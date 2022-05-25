@@ -14,7 +14,15 @@
   "author": "Oscar Barajas <oscar@platzi.com>",
   "license": "MIT",
   "bin": {
-    "aleatory": "./bin/global.js"
+    "aleatory": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusalejos/npm-random-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jesusalejos/npm-random-msg/issues"
+  },
+  "homepage": "https://github.com/jesusalejos/npm-random-msg#readme"
 }
