@@ -1,10 +1,13 @@
 const messages = [
   "oscar",
+  "El Señor es mi Pastor",
+  "Misericordia, hemos pecado",
   "Ana",
   "Nicolay",
   "Yesica",
   "Diego",
-  "Laura"
+  "Laura",
+  "You are the best"
 ];
 
 const randomMsg = () => {

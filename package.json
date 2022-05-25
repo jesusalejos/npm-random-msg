@@ -1,5 +1,5 @@
 {
-  "name": "random-messages",
+  "name": "random-messages_myfork",
   "version": "1.0.0",
   "description": "random de mensajes",
   "main": "src/index.js",
@@ -14,7 +14,7 @@
   "author": "Oscar Barajas <oscar@platzi.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "aleatory": "./bin/global.js"
   },
   "preferGlobal": true
 }
